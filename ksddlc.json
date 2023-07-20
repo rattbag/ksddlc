@@ -10,6 +10,11 @@
       "y": -351
     }
   ],
-  "whitelist": [],
+  "whitelist": [
+    {
+      "name": "KSDDLC",
+      "url": "https://raw.githubusercontent.com/rattbag/ksddlc/main/ksddlc.json"
+    }
+  ],
   "blacklist": []
 }
