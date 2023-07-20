@@ -1,0 +1,15 @@
+{
+  "contact": "Discord: ra_tt",
+  "templates": [
+    {
+      "name": "DDLC/KS",
+      "sources": [
+        "https://i.imgur.com/giyJ4Zv.png"
+      ],
+      "x": 0,
+      "y": -351
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
