@@ -1,20 +1,20 @@
 {
-  "contact": "Discord: ra_tt https://discord.gg/YMeq6Y5jGk",
-  "templates": [
-    {
-      "name": "DDLC/KS",
-      "sources": [
-        "https://i.imgur.com/w6W8asg.png"
-      ],
-      "x": 88,
-      "y": -368
-    }
-  ],
-  "whitelist": [
-    {
-      "name": "KSDDLC",
-      "url": "https://raw.githubusercontent.com/rattbag/ksddlc/main/ksddlc.json"
-    }
-  ],
-  "blacklist": []
+"contact": "Discord: Ra_tt",
+"templates": [
+{
+"name": "DDLCKS",
+"sources": [
+"https://i.imgur.com/cCsGKut.png"
+],
+"x": 1133,
+"y": 344
+}
+],
+"whitelist": [
+{
+"name": "KSDDLC",
+"url": "https://rentry.co/KSDDLC/raw"
+}
+],
+"blacklist": []
 }
