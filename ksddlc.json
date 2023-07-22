@@ -1,20 +1,28 @@
 {
-"contact": "Discord: Ra_tt",
-"templates": [
-{
-"name": "DDLCKS",
-"sources": [
-"https://i.imgur.com/zQmqciX.png"
-],
-"x": 1634,
-"y": 344
-}
-],
-"whitelist": [
-{
-"name": "KSDDLC",
-"url": "https://rentry.co/KSDDLC/raw"
-}
-],
-"blacklist": []
+  "contact": "Discord: Ra_tt",
+  "templates": [
+    {
+      "name": "Techno Hearts",
+      "sources": [
+        "https://i.imgur.com/zQmqciX.png"
+      ],
+      "x": 1634,
+      "y": 344
+    },
+    {
+      "name": "Murals",
+      "sources": [
+        "https://i.imgur.com/VK2vlqr.png"
+      ],
+      "x": 419,
+      "y": 869
+    }
+  ],
+  "whitelist": [
+    {
+      "name": "KSDDLC",
+      "url": "https://rentry.co/KSDDLC/raw"
+    }
+  ],
+  "blacklist": []
 }
