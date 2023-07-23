@@ -2,14 +2,6 @@
   "contact": "Discord: Ra_tt",
   "templates": [
     {
-      "name": "Techno Hearts",
-      "sources": [
-        "https://i.imgur.com/zQmqciX.png"
-      ],
-      "x": 1634,
-      "y": 344
-    },
-    {
       "name": "Murals",
       "sources": [
         "https://i.imgur.com/2IorsvP.png"
