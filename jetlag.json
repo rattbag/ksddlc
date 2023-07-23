@@ -1,0 +1,20 @@
+{
+  "contact": "Ra_tt on Discord",
+  "templates": [
+    {
+      "name": "Buccees",
+      "sources": [
+        "https://i.imgur.com/0JGxbKw.png"
+      ],
+      "x": 1615,
+      "y": 338
+    }
+  ],
+  "whitelist": [
+    {
+      "name": "Visual novel alliance",
+      "url": "https://raw.githubusercontent.com/rattbag/ksddlc/main/ksddlc.json"
+    }
+  ],
+  "blacklist": []
+}
