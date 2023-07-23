@@ -8,13 +8,16 @@
       ],
       "x": 418,
       "y": 1316
-    }
-  ],
-  "whitelist": [
+    },
     {
-      "name": "KSDDLC",
-      "url": "https://rentry.co/KSDDLC/raw"
+      "name": "Mini Yuri",
+      "sources": [
+        "https://i.imgur.com/DGIQx3H.png"
+      ],
+      "x": 137,
+      "y": 1553
     }
   ],
+  "whitelist": [],
   "blacklist": []
 }
