@@ -28,10 +28,10 @@
     {
       "name": "DDLC Monika",
       "sources": [
-        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/ddlc_monika_v00.png"
+        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/ddlc_monika_v01.png"
       ],
       "x": 2872,
-      "y": 996
+      "y": 1323
     }
   ],
   "whitelist": [
