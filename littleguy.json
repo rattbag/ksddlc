@@ -1,0 +1,15 @@
+{
+  "contact": "Discord: Ra_tt",
+  "templates": [
+    {
+      "name": "littleguy",
+      "sources": [
+        "https://i.imgur.com/FPT1U6o.png"
+      ],
+      "x": 1988,
+      "y": 1074
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
