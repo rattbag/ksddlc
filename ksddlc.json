@@ -29,7 +29,11 @@
   "whitelist": [
     {
       "name": "Omori",
-      "url": ""
+      "url": "https://raw.githubusercontent.com/sunryze-git/omoriplace2023/main/omoriplace.json"
+    },
+    {
+      "name": "One Piece",
+      "url": "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/oneplace-template.json"
     }
   ],
   "blacklist": []
