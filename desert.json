@@ -1,0 +1,15 @@
+{
+  "contact": "",
+  "templates": [
+    {
+      "name": "Desert",
+      "sources": [
+        "https://i.imgur.com/xbuAq1L.png"
+      ],
+      "x": 923,
+      "y": 1855
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
