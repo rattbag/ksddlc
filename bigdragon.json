@@ -1,0 +1,15 @@
+{
+  "contact": "oof",
+  "templates": [
+    {
+      "name": "Big Dragon",
+      "sources": [
+        "https://place.kayo.zip/outputs/overlay_target.png"
+      ],
+      "x": 0,
+      "y": 0
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
