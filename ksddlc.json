@@ -26,6 +26,11 @@
       "y": 703
     }
   ],
-  "whitelist": [],
+  "whitelist": [
+    {
+      "name": "Omori",
+      "url": "https://raw.githubusercontent.com/sunryze-git/omoriplace2023/main/omoriplace.json"
+    }
+  ],
   "blacklist": []
 }
