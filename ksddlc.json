@@ -16,6 +16,14 @@
       ],
       "x": 635,
       "y": 1552
+    },
+    {
+      "name": "Emi",
+      "sources": [
+        "https://i.imgur.com/j8qKyLM.png"
+      ],
+      "x": 289,
+      "y": 728
     }
   ],
   "whitelist": [],
