@@ -26,7 +26,15 @@
       "y": 704
     },
     {
-      "name": "DDLC Monika",
+      "name": "Old Monika",
+      "sources": [
+        "https://i.imgur.com/SQBdngZ.png"
+      ],
+      "x": 2744,
+      "y": 1517
+    },
+    {
+      "name": "New Monika",
       "sources": [
         "https://i.imgur.com/QrurJqD.png"
       ],
