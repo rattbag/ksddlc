@@ -42,6 +42,10 @@
     {
       "name": "One Piece",
       "url": "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/oneplace-template.json"
+    },
+    {
+      "name": "21P",
+      "url": "https://raw.githubusercontent.com/rattbag/ksddlc/main/top.json"
     }
   ],
   "blacklist": []
